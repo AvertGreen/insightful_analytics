@@ -2,12 +2,12 @@
 
 ## Project Description
 
-This project is a test task aimed at analyzing loan issuance and payment data (both planned and actual) to explore customer behavior regarding overdue payments.  
-The main goals were:  
-- Identify trends in overdue payments (growth or decline);  
-- Understand how customer behavior changes over time.  
+This project analyzes data on loans and payments (both planned and actual) to study customer behavior regarding late payments.  
+The main objectives were:
+- To identify trends in overdue payments (growth or decrease);  
+- Understanding how customer behavior changes over time.  
 
-Data inconsistencies were interpreted based on logical assumptions and are documented in the final conclusions.
+Inconsistencies in the data were interpreted based on logical assumptions and documented in the final conclusions.
 
 ## Data Description
 
